@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>menu-notch.png</file>
+        <file>jsonfile.png</file>
+        <file>button-lighter.png</file>
+        <file>json-miniature.png</file>
+    </qresource>
+</RCC>
